@@ -10,3 +10,8 @@ source_metadata:
       parent: Art
 created_at: '2022-03-01T04:01:24.557402'
 last_modified_at: '2022-03-01T04:01:24.557404'
+statistics:
+  total_words: 1194
+  total_non_words: 163
+quality:
+  non_words_ratio: 0.14
